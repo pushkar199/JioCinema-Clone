@@ -1,0 +1,6 @@
+.homepage_wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  min-height: 100vh;
+}
